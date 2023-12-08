@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-08T06:06:17.764Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="AQkxP21PXkp7Wn7Wfe73" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-08T06:08:26.894Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="1UypUa5bP2bjra7-bmPf" version="22.1.7" type="github">
   <diagram name="Page-1" id="FIEWSwXzCEZSGsIRjYD_">
     <mxGraphModel dx="1674" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -99,13 +99,25 @@
           <mxGeometry x="840" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="B5_etHLyTeucPjupkv1W-21" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="920" y="160" width="210" height="240" as="geometry" />
+          <mxGeometry x="920" y="155" width="210" height="240" as="geometry" />
         </mxCell>
         <mxCell id="B5_etHLyTeucPjupkv1W-22" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="930" y="180" width="180" height="210" as="geometry" />
+          <mxGeometry x="930" y="175" width="180" height="210" as="geometry" />
         </mxCell>
         <mxCell id="B5_etHLyTeucPjupkv1W-23" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="950" y="200" width="140" height="140" as="geometry" />
+          <mxGeometry x="950" y="195" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="B5_etHLyTeucPjupkv1W-37" value="Browser" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="950" y="150" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B5_etHLyTeucPjupkv1W-38" value="Insights Portal" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="950" y="175" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="B5_etHLyTeucPjupkv1W-39" value="React JS,&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="960" y="205" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="B5_etHLyTeucPjupkv1W-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="B5_etHLyTeucPjupkv1W-19" target="B5_etHLyTeucPjupkv1W-22">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
